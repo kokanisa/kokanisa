@@ -22,7 +22,6 @@
 - [Arte do Sabor](https://artedosabor.pt) — Gastronomy tracking and culinary project.
 
 ---
-
 ### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kokanisa&show_icons=true&theme=dark)](https://github.com/kokanisa)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kokanisa&show_icons=true&theme=dark)](https://kokanisa.pt)
