@@ -24,6 +24,5 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokanisa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kokanisa&show_icons=true&theme=dark)](https://github.com/kokanisa)
