@@ -72,47 +72,10 @@ Cada demonstração abaixo é um website real, navegável e responsivo desenvolv
 | **Arte do Sabor** | Confeitaria & Blog Gastronómico | [artedosabor.pt](https://artedosabor.pt) | Vitrine de pastelaria, artigos de receitas, SEO |
 | **A Tasca do Quim** | Taberna Tradicional (1978) | [tascadoquin.kokanisa.pt](https://tascadoquin.kokanisa.pt) | Design rústico, história da casa, reservas |
 | **TagWeb** | Acelerador de Websites | [tagweb.kokanisa.pt](https://tagweb.kokanisa.pt) | Catálogo de soluções e captação de clientes |
-
 ---
 
-## 📁 Estrutura do Projeto
 
-```
-kokanisa/
-├── index.html                   # Página principal com comparador, screenshots e simulador IA
-├── sobremim.html                # Percurso de Hugo Sá, valores, competências e TagWeb
-├── contato.html                 # Página de contacto direto e formulário com proteções
-├── landingpage.html             # Landing page dedicada a conversão (150€)
-├── blog.html                    # Índice geral de publicações e reflexões digitais
-├── briefing.html                # Questionário interativo de briefing para clientes
-├── pratododia.html              # Demonstração do sistema Prato do Dia para restauração
-├── pagamento.html               # Métodos de pagamento (MB WAY, IBAN, Referência, Cartão)
-├── privacidade.html             # Política de Privacidade e Tratamento de Dados (RGPD)
-├── criacao-de-sites-...html     # Landing page SEO geolocalizada para Santa Maria da Feira
-├── clicks.html                  # Página de bio/links móvel para redes sociais
-├── api-simulador.php            # Endpoint PHP seguro para simulação de orçamentos com IA
-├── processar-formulario.php     # Processamento de formulários com anti-spam e PHPMailer
-├── config.example.php           # Template de configuração SMTP e chave de API Gemini
-├── config.php                   # Ficheiro de produção (ignorado no Git para segurança)
-├── cookie-banner.js             # Gestor de preferências de cookies e privacidade RGPD
-├── simulador-ia.js              # Controlador JavaScript do simulador de orçamentos IA
-├── whatsapp-widget.js           # Widget flutuante de apoio via WhatsApp
-├── robots.txt                   # Regras de rastreamento para Google e robôs de IA
-├── sitemap.xml                  # Mapa XML do website com páginas e imagens
-├── site.webmanifest             # Manifesto PWA com metadados para instalação
-├── llms.txt & llms-full.txt     # Documentação oficial estruturada para agentes de IA
-├── .htaccess                    # Configurações Apache (HTTPS, Gzip, Caching, Segurança)
-├── css/
-│   └── style.css                # Folha de estilos global (dark mode, glassmorphism, responsivo)
-├── image/                       # Logótipos, ícones, banners e screenshots dos websites (.webp)
-├── blog/                        # Dezenas de artigos HTML otimizados para motores de busca
-├── comentarios/                 # Base de dados em JSON para sistema dinâmico de comentários
-├── fotosblog/                   # Banco de fotografias e ilustrações webp dos artigos
-├── PHPMailer-master/            # Biblioteca oficial PHPMailer para envio SMTP autenticado
-└── video/                       # Vídeos demonstrativos comprimidos de alta eficiência
-```
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -130,60 +93,6 @@ kokanisa/
 - **Servidor & Otimização:**
   - **Apache / LiteSpeed:** Suporte completo via [.htaccess](file:///.htaccess) com compressão Brotli/Gzip e cabeçalhos de expiração de cache.
   - **Formatos Modernos:** Imagens em formato WebP de alta compressão e vetores SVG escaláveis.
-
----
-
-## 🚀 Como Executar Localmente
-
-### 1. Clonar o Repositório
-```bash
-git clone https://github.com/kokanisa/kokanisa.git
-cd kokanisa
-```
-
-### 2. Configurar o Ambiente Backend
-Copie o modelo de configuração e adicione as suas chaves e dados SMTP (se pretender testar o formulário e a IA):
-```bash
-cp config.example.php config.php
-```
-
-Abra o ficheiro `config.php` e edite:
-- **`smtp`**: Credenciais de servidor de correio (Host, Username, Password, Porta 465 SSL).
-- **`ai`**: Chave de API Google Gemini (gratuita em [Google AI Studio](https://aistudio.google.com/)).
-
-### 3. Iniciar Servidor Local de Desenvolvimento
-
-**Com PHP (Recomendado para testar formulário e simulador IA):**
-```bash
-php -S localhost:8000
-```
-Aceda no navegador a: `http://localhost:8000`
-
-**Com Python (Apenas para visualização estática do frontend):**
-```bash
-python -m http.server 8080
-```
-Aceda no navegador a: `http://localhost:8080`
-
----
-
-## 📦 Como Gerar Pacote de Deploy para Produção
-
-Para publicar em servidores de alojamento web (cPanel, DirectAdmin, Plesk ou FTP Apache), execute o empacotador de produção:
-
-```bash
-python scratch/make_deploy_zip.py
-```
-
-O ficheiro gerado `kokanisa-deploy.zip` é criado pronto a ser extraído diretamente na raiz `public_html/` do servidor, contendo apenas os ficheiros essenciais de produção e excluindo scripts locais e arquivos temporários.
-
----
-
-## 🔒 Segurança e Privacidade
-
-- **Ficheiro [config.php](file:///config.php):** Contém credenciais sensíveis (SMTP, senhas, chave Gemini API) e está protegido contra visualização web direta via `.htaccess` e guardado no `.gitignore`.
-- **Proteção Anti-Spam:** Sistema multi-camada contra robôs automatizados sem recurso a captchas intrusivos que prejudiquem a experiência do utilizador.
-- **Conformidade RGPD:** Políticas claras e consentimento granular de cookies com base no Regulamento Geral sobre a Proteção de Dados (UE 2016/679).
 
 ---
 
