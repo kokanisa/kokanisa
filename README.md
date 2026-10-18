@@ -13,12 +13,14 @@
   </p>
 
   <p align="center">
-    <a href="https://kokanisa.pt">Aceder ao Site</a> •
-    <a href="https://kokanisa.pt/#servicos">Serviços & Planos</a> •
-    <a href="https://kokanisa.pt/pratododia.html">Prato do Dia</a> •
-    <a href="https://tagweb.kokanisa.pt">TagWeb</a> •
-    <a href="https://wa.me/351913942342">WhatsApp</a>
-  </p>
+## 👤 Autor
+
+**Hugo Sá** — *Web Designer & Freelancer*
+- 🌐 Website: <https://kokanisa.pt>
+- 💼 LinkedIn: <https://www.linkedin.com/in/hugomiguelsa/>
+- 🐙 GitHub: <https://github.com/kokanisa>
+- 💬 WhatsApp: <https://wa.me/351913942342>
+- ✉️ Email: <mailto:hugo@kokanisa.pt>
 
 </div>
 
