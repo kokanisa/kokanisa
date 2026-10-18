@@ -1,73 +1,78 @@
-# 🌐 Kokanisa.pt
+# ⚙️ Hugo Sá — Portfólio Profissional & Criador de Kokanisa.pt
 
-### Websites Profissionais • Código Puro • Sem Mensalidades
+### Eletrotecnia • Pneumática & Hidráulica • Web Development em Código Puro • Apoio Logístico
 
-[![Website](https://img.shields.io/badge/Website-kokanisa.pt-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kokanisa.pt)
-[![Portfólio](https://img.shields.io/badge/Portfólio-hugosa.pt-orange?style=for-the-badge&logo=safari&logoColor=white)](https://hugosa.pt)
-[![Localização](https://img.shields.io/badge/Localização-Santa%20Maria%20da%20Feira%20%7C%20Portugal-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://kokanisa.pt)
-[![Status](https://img.shields.io/badge/Status-Online%20%26%20Ativo-brightgreen?style=for-the-badge)](https://kokanisa.pt)
-[![Autor](https://img.shields.io/badge/Autor-Hugo%20Sá-blueviolet?style=for-the-badge)](https://www.linkedin.com/in/hugomiguelsa/)
+[![Portfólio](https://img.shields.io/badge/Portfólio%20Online-portfolio.kokanisa.pt-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.kokanisa.pt)
+[![Website Kokanisa](https://img.shields.io/badge/Kokanisa.pt-Websites%20Profissionais-green?style=for-the-badge&logo=safari&logoColor=white)](https://kokanisa.pt)
+[![Localização](https://img.shields.io/badge/Localização-Santa%20Maria%20da%20Feira%20%7C%20Aveiro-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://portfolio.kokanisa.pt)
+[![Qualificação](https://img.shields.io/badge/Certificação-CET%20Nível%205%20Multimédia-blueviolet?style=for-the-badge)](https://portfolio.kokanisa.pt)
+[![Idiomas](https://img.shields.io/badge/Idiomas-PT%20%7C%20EN%20%7C%20FR-orange?style=for-the-badge)](https://portfolio.kokanisa.pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hugomiguelsa-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugomiguelsa)
 
-Plataforma digital e serviço oficial de desenvolvimento web para pequenas empresas, negócios locais e profissionais liberais em Portugal.
+Repositório oficial do portfólio de **Hugo Sá**, profissional técnico e criador digital baseado em Santa Maria da Feira (Aveiro, Portugal). Reúne mais de 20 anos de experiência prática industrial aliada ao desenvolvimento web e à fundação do projeto **[Kokanisa.pt](https://kokanisa.pt)**.
 
-[Aceder ao Site](https://kokanisa.pt) • [Portfólio Pessoal](https://hugosa.pt) • [Serviços & Planos](https://kokanisa.pt/#servicos) • [Prato do Dia](https://kokanisa.pt/pratododia.html) • [TagWeb](https://tagweb.kokanisa.pt) • [WhatsApp](https://wa.me/351913942342)
-
----
-
-## 📌 Sobre a Kokanisa
-
-A **[Kokanisa.pt](https://kokanisa.pt)** nasceu com um objetivo claro: fornecer a negócios locais e empresas portuguesas uma presença digital robusta, ultrarrápida e profissional, sem o peso de plataformas complexas nem mensalidades escondidas.
-
-Com sede em **Santa Maria da Feira** e atuação em todo o território nacional (Continental e Ilhas), cada projeto é construído à medida em código limpo, assegurando performance de topo no Google PageSpeed e uma experiência pensada para telemóveis (*Mobile-First*).
+[Ver Portfólio](https://portfolio.kokanisa.pt) • [Visitar Kokanisa.pt](https://kokanisa.pt) • [Planos & Preços](https://kokanisa.pt/#servicos) • [TagWeb](https://tagweb.kokanisa.pt) • [Prato do Dia](https://kokanisa.pt/pratododia.html) • [Contacto WhatsApp](https://wa.me/351913942342)
 
 ---
 
-## 🚀 Pilares & Diferenciais
+## 🌐 O Projeto Kokanisa.pt (Web Design & Desenvolvimento)
 
-| Pilar | Descrição |
-| :--- | :--- |
-| ⚡ **Performance Real (< 1.5s)** | Código puro e otimizado, sem construtores pesados. Páginas leves com abertura instantânea. |
-| 📱 **Mobile-First** | Interface adaptada a qualquer ecrã com botões de chamada e WhatsApp diretos. |
-| 🔍 **SEO & Google Local** | Marcação semântica com Schema.org (JSON-LD), Open Graph e integração com o Google Maps. |
-| 💶 **Preço Fixo e Transparente** | Soluções desde 99€, sem fidelizações forçadas nem custos mensais ocultos. |
-| 🤝 **Proximidade & Transparência** | Contacto direto com o programador e acompanhamento em link privado de testes antes da entrega final (0€ de sinal). |
+Fundada e desenvolvida por Hugo Sá, a **[Kokanisa.pt](https://kokanisa.pt)** é uma solução de desenvolvimento web vocacionada para pequenas empresas, negócios locais e profissionais independentes em todo o território nacional.
 
----
+### Pilares da Kokanisa
+- ⚡ **Código Puro & Velocidade (< 1.5s):** Construção limpa em HTML5, CSS3 e JavaScript Vanilla sem recurso a plataformas pesadas ou plugins desnecessários.
+- 💶 **Preço Fixo e Sem Mensalidades:** Transparência total com pagamento único e 0€ de sinal inicial (o cliente valida o site em link de teste privado antes de pagar).
+- 📱 **Mobile-First & SEO Local:** Foco na experiência em smartphones, integração direta com Google Maps e dados estruturados Schema.org (JSON-LD).
 
-## 💼 Serviços & Soluções
-
-- 💼 **[Portfólio Digital (99€)](https://kokanisa.pt/#servicos):** Apresentação concisa de serviços, galeria de trabalhos e ligação direta a contactos.
-- 🎯 **[Landing Page de Alta Conversão (150€)](https://kokanisa.pt/landingpage.html):** Página de foco único orientada a campanhas de publicidade e captação de clientes.
-- 🏢 **[Website Completo (250€)](https://kokanisa.pt/#servicos):** Solução multi-páginas para empresas com blog, mapa interativo, formulários e estrutura avançada de SEO.
-- 🍽️ **[Iniciativa Prato do Dia](https://kokanisa.pt/pratododia.html):** Ementas digitais por QR Code para o setor da restauração, com atualização prática e suporte via WhatsApp.
-- 🏷️ **[TagWeb](https://tagweb.kokanisa.pt):** Ferramenta e utilitários complementares para otimização e gestão web.
-- 📝 **[Briefing Online](https://kokanisa.pt/briefing.html):** Formulário guiado para levantamento rápido de requisitos de projeto.
-- 📰 **[Blog & Dicas](https://kokanisa.pt/blog.html):** Artigos sobre presença digital, SEO local e velocidade web.
+### Soluções e Planos Kokanisa
+- 💼 **[Portfólio Digital (99€)](https://kokanisa.pt/#servicos):** Montra profissional rápida para apresentação de serviços e contacto direto.
+- 🎯 **[Landing Page de Alta Conversão (150€)](https://kokanisa.pt/landingpage.html):** Páginas orientadas a anúncios Google/Meta e captação de clientes.
+- 🏢 **[Website Completo para Empresas (250€)](https://kokanisa.pt/#servicos):** Websites institucionais multi-páginas com blog e otimização avançada de pesquisa.
+- 🍽️ **[Iniciativa Prato do Dia](https://kokanisa.pt/pratododia.html):** Menus digitais e ementas com QR Code para restauração com atualização diária via WhatsApp.
+- 🏷️ **[TagWeb](https://tagweb.kokanisa.pt):** Ferramentas e utilitários complementares de apoio ao ecossistema web.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Competências Técnicas & Industriais
 
-- **Frontend:** HTML5 Semântico, CSS3 (Modern Flexbox / Grid), JavaScript (Vanilla ES6+)
-- **UI & Layout:** Bootstrap 5, Bootstrap Icons, AOS (Animate On Scroll)
-- **Otimização & SEO:** Schema.org (Microdados JSON-LD), Open Graph Protocols, Google Tag Manager / Analytics
-- **Performance:** Formatos de imagem de nova geração (`.webp`, `.svg`), minificação e carregamento assíncrono
+### 1. Eletrotecnia & Automação Industrial
+- **Quadros Elétricos:** Conceção, montagem, cablagem, diagnóstico e manutenção preventiva/curativa de quadros de comando e potência.
+- **Leitura Técnica:** Interpretação rigorosa de esquemas elétricos unifilares e multifilares.
+- **Equipamentos Industriais:** Vivência na operação e assistência a centrais industriais de britagem (ex.: Metso e Terex).
+
+### 2. Pneumática & Hidráulica
+- **Pneumática e Eletropneumática:** Montagem de circuitos, deteção e resolução de avarias em atuadores, eletroválvulas e sistemas de ar comprimido.
+- **Hidráulica Industrial e Eletro-hidráulica:** Circuitos de potência fluida, grupos hidráulicos, blocos distribuidores e cilindros.
+- **Trabalhos de Bancada & Precisão:** Mecânica de bancada, afinação detalhada de folgas e tolerâncias dimensionais.
+
+### 3. Apoio Operacional & Logística
+- Organização e gestão operacional de armazém, receção, triagem de componentes e controlo de stocks.
+
+### 4. Multimédia & Programação Web
+- **Frontend:** HTML5 Semântico, CSS3 Moderno, JavaScript (ES6+), Bootstrap 5.
+- **Backend & Dados:** PHP, Python e conceção/gestão de bases de dados relacionais (SQL).
+- **SEO & Otimização:** Marcação Schema.org, Open Graph, Core Web Vitals e conformidade com diretrizes LLM (`llms.txt`).
+
+---
+
+## 🎓 Credenciais & Formação
+
+- **CET Nível 5 em Multimédia** — Reconhecido pela DGERT / Quadro Nacional de Qualificações.
+- **Manutenção Geral de Máquinas Industriais** — CFPIC (Centro de Formação Profissional da Indústria do Calçado).
+- **Mais de 20 anos de experiência prática** em ambientes industriais, oficinais e operacionais.
+- **Competências Linguísticas:** Fluência em Português, Inglês e Francês (vivência internacional bilingue).
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-kokanisa.pt/
-├── index.html            # Página inicial e apresentação geral
-├── landingpage.html      # Apresentação detalhada dos planos e serviços
-├── pratododia.html       # Solução de menus digitais QR Code para restauração
-├── briefing.html         # Formulário interativo de levantamento de requisitos
-├── sobremim.html         # Apresentação do criador e visão do projeto
-├── blog.html             # Artigos sobre SEO local, performance e boas práticas
-├── contato.html          # Contactos formais e canais diretos
-├── css/
-│   └── style.css         # Estilos personalizados e variáveis de design
-├── js/
-│   └── ...               # Interatividade, navegação e animações
-└── image/                # Recursos visuais, logótipos e imagens otimizadas
+portfolio.kokanisa.pt/
+├── index.html            # Interface do portfólio (multilíngue, com tema claro/escuro)
+├── sitemap.xml           # Mapeamento de rotas para motores de busca
+├── site.webmanifest      # Manifesto de suporte a PWA (Progressive Web App)
+├── llms.txt              # Documentação resumida para indexação por agentes AI
+├── llms-full.txt         # Especificação completa de conhecimento técnico
+├── css/                  # Estilos modernos, responsivos e otimizados
+├── js/                   # Controlo de temas, idioma e interatividade
+└── images/               # Fotografia de perfil, diagramas e recursos visuais
