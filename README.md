@@ -1,112 +1,85 @@
-# ⚡ Kokanisa.pt: Criação de Websites em Código Puro
-
 <div align="center">
 
-[![Website Status](https://img.shields.io/badge/Website-kokanisa.pt-32CD32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kokanisa.pt)
-[![Pure Code](https://img.shields.io/badge/Arquitetura-C%C3%B3digo%20Puro%20(Zero%20CMS)-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white)](https://kokanisa.pt)
-[![PageSpeed](https://img.shields.io/badge/PageSpeed-99%2F100%20(%3C1.5s)-brightgreen?style=for-the-badge&logo=speedtest&logoColor=white)](https://kokanisa.pt)
-[![AI Simulator](https://img.shields.io/badge/IA%20Gemini-2.5%20Flash%20Inside-8A2BE2?style=for-the-badge&logo=google&logoColor=white)](https://kokanisa.pt)
-[![Location](https://img.shields.io/badge/Origem-Santa%20Maria%20da%20Feira%20%E2%80%A2%20Portugal-crimson?style=for-the-badge&logo=pinboard&logoColor=white)](https://kokanisa.pt)
+  # 🌐 Kokanisa.pt
+  ### Websites Profissionais • Código Puro • Sem Mensalidades
 
-<p align="center">
-  <b>Websites profissionais, ultrarrápidos e desenhados para converter — sem construtores pesados, sem dependências vulneráveis e sem mensalidades ocultas.</b>
-</p>
+  [![Website](https://img.shields.io/badge/Website-kokanisa.pt-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kokanisa.pt)
+  [![Localização](https://img.shields.io/badge/Localização-Santa%20Maria%20da%20Feira%20%7C%20Portugal-green?style=for-the-badge&logo=googlemaps&logoColor=white)](https://kokanisa.pt)
+  [![Status](https://img.shields.io/badge/Status-Online%20%26%20Ativo-brightgreen?style=for-the-badge)](https://kokanisa.pt)
+  [![Licença](https://img.shields.io/badge/Autor-Hugo%20Sá-blueviolet?style=for-the-badge)](https://www.linkedin.com/in/hugomiguelsa/)
 
-[🌐 Website Oficial](https://kokanisa.pt) • [💼 Portfólio Hugo Sá](https://portfolio.kokanisa.pt) • [🚀 TagWeb](https://tagweb.kokanisa.pt) • [📖 Blog](https://kokanisa.pt/blog.html) • [💬 Contactar WhatsApp](https://wa.me/351913942342)
+  <p align="center">
+    <b>Plataforma digital e portfólio oficial de serviços de desenvolvimento web para pequenas empresas, negócios locais e profissionais liberais em Portugal.</b>
+  </p>
 
----
+  <p align="center">
+    <a href="https://kokanisa.pt">Aceder ao Site</a> •
+    <a href="https://kokanisa.pt/#servicos">Serviços & Planos</a> •
+    <a href="https://kokanisa.pt/pratododia.html">Prato do Dia</a> •
+    <a href="https://tagweb.kokanisa.pt">TagWeb</a> •
+    <a href="https://wa.me/351913942342">WhatsApp</a>
+  </p>
 
 </div>
 
-## 📖 Visão Geral
+---
 
-A **[Kokanisa.pt](https://kokanisa.pt)** é o estúdio digital e montra de serviços do programador freelancer **Hugo Sá**, sedeado em **Santa Maria da Feira (Distrito de Aveiro, Portugal)**.
+## 📌 Sobre a Kokanisa
 
-Após mais de duas décadas de experiência em manutenção mecânica, automação e eletrotecnia industrial com forte rigor de precisão, Hugo Sá transpôs esse método para a engenharia web: construir websites em **código limpo e puro (HTML5, CSS3, JavaScript ES6 e PHP 8)** que abrem instantaneamente em smartphones, garantem máxima pontuação no **Google Core Web Vitals** e dispensam plataformas pesadas e vulneráveis como WordPress ou Elementor.
+A **[Kokanisa.pt](https://kokanisa.pt)** nasceu com um objetivo claro: fornecer a negócios locais e empresas portuguesas uma presença digital robusta, ultrarrápida e profissional, **sem o peso de plataformas complexas nem mensalidades escondidas**.
+
+Com sede em **Santa Maria da Feira** e alcance para **todo o território nacional** (Continental e Ilhas), cada projeto é construído à medida através de desenvolvimento direto em código limpo, assegurando performance de topo no Google PageSpeed e uma experiência exemplar em dispositivos móveis (*Mobile-First*).
 
 ---
 
-## 🌟 Diferenciais & Proposta de Valor
+## 🚀 Pilares & Diferenciais
 
-- **🛡️ Modelo Comercial de Risco Zero (0€ de Entrada):**
-  - O cliente não paga qualquer sinal para dar início ao trabalho.
-  - O website é desenvolvido, colocado em subdomínio de teste e apresentado funcional.
-  - O pagamento do valor fixo só ocorre após aprovação total e 100% de satisfação do cliente.
-
-- **⚡ Velocidade Extrema & Código Puro (< 1.5s):**
-  - Construído de raiz sem CMS pesados, bases de dados desnecessárias ou dezenas de plugins de terceiros.
-  - Carregamento ultraleve, ideal para redes móveis 4G/5G em todo o território nacional.
-
-- **💎 Preçário Transparente e Sem Mensalidades:**
-  - **Portfólio Digital (99€):** Montra profissional rápida para técnicos, freelancers, arquitetos e criadores.
-  - **Landing Page de Alta Conversão (150€):** Página de venda direta orientada a chamadas telefónicas urgentes e WhatsApp.
-  - **Website Multipáginas Completo (250€):** Até 5 páginas institucionais elegantes com mapa, horários e formulários.
-  - O código pertence 100% ao cliente, com total liberdade de alojamento.
-
-- **🤖 Simulador de Orçamento com Inteligência Artificial:**
-  - Simulador interativo alimentado pelo modelo **Google Gemini 2.5 Flash** (`api-simulador.php` + `simulador-ia.js`) que analisa o ramo de atividade e sugere a estrutura ideal para o cliente em tempo real.
-
-- **🔒 Segurança & Blindagem Anti-Spam:**
-  - Sistema de envio de e-mails em PHP 8 com **PHPMailer** via SMTP seguro (porta 465 SSL).
-  - Proteção contra bots com *honeypot*, validação de tokens temporais criptografados com *salt*, *rate-limiting* por endereço IP e bloqueio de alfabetos não latinos (cirílico/asiático).
-
-- **🔍 Otimização para Motores de Busca & Bots de IA:**
-  - **Schema.org JSON-LD:** Schemas de `LocalBusiness`, `ProfessionalService`, `Person`, `FAQPage` e `BlogPosting`.
-  - **LLMs Search:** Em conformidade com as diretrizes `llms.txt` e `llms-full.txt` para indexação em agentes de IA (ChatGPT, Claude, Perplexity).
+| Pilar | Descrição |
+| :--- | :--- |
+| ⚡ **Performance Real (< 1.5s)** | Código puro e otimizado, sem construtores pesados. Páginas leves que carregam de imediato. |
+| 📱 **Mobile-First** | Interface adaptada a qualquer ecrã com botões de chamada e WhatsApp prontos para conversão. |
+| 🔍 **SEO & Google Local** | Marcação semântica com Schema.org (JSON-LD), Open Graph e integração direta com o Google Maps. |
+| 💶 **Preço Fixo e Transparente** | Soluções a partir de 99€, sem fidelizações contratuais nem custos de manutenção forçados. |
+| 🤝 **Proximidade & Transparência** | Comunicação direta com o programador e acompanhamento em link privado de testes antes da entrega final (0€ de sinal). |
 
 ---
 
-## 🌐 Demonstrações ao Vivo Desenvolvidas
+## 💼 Serviços & Soluções
 
-Cada demonstração abaixo é um website real, navegável e responsivo desenvolvido em código puro pela Kokanisa:
-
-| Projeto | Ramo / Nicho | Link de Demonstração | Recursos em Destaque |
-| :--- | :--- | :--- | :--- |
-| **Portfólio Hugo Sá** | Técnico & Multimédia | [portfolio.kokanisa.pt](https://portfolio.kokanisa.pt) | CV digital, galeria de projetos, contacto rápido |
-| **Restaurante O Pescador** | Peixe Fresco & Marisco | [restaurante.kokanisa.pt](https://restaurante.kokanisa.pt) | Ementa dinâmica do dia, fotos, reservas online |
-| **Farina & Fuoco** | Pizzeria Napolitana DOP | [pizzeria.kokanisa.pt](https://pizzeria.kokanisa.pt) | Criador visual de pizzas, pedidos WhatsApp |
-| **AuraClean** | Empresa de Limpezas | [limpeza.kokanisa.pt](https://limpeza.kokanisa.pt) | Calculador de áreas, orçamento em 2h |
-| **Piquete 24h Aveiro** | Reparações Domésticas | [tecnico.kokanisa.pt](https://tecnico.kokanisa.pt) | Botão de chamada urgente 24h, cálculo de piquete |
-| **A Forja da Francesinha** | Cervejaria Francesinhas | [forjadafrancesinha.kokanisa.pt](https://forjadafrancesinha.kokanisa.pt) | Personalizador interativo "Forja a Tua", reservas |
-| **O Cantinho da Feira** | Churrasqueira & Takeaway | [churrasqueira.kokanisa.pt](https://churrasqueira.kokanisa.pt) | Encomendas para almoço/jantar, prato do dia |
-| **Arte do Sabor** | Confeitaria & Blog Gastronómico | [artedosabor.pt](https://artedosabor.pt) | Vitrine de pastelaria, artigos de receitas, SEO |
-| **A Tasca do Quim** | Taberna Tradicional (1978) | [tascadoquin.kokanisa.pt](https://tascadoquin.kokanisa.pt) | Design rústico, história da casa, reservas |
-| **TagWeb** | Acelerador de Websites | [tagweb.kokanisa.pt](https://tagweb.kokanisa.pt) | Catálogo de soluções e captação de clientes |
----
-
-
-
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Frontend:**
-  - **HTML5:** Semântica rigorosa, meta tags OpenGraph / Twitter Cards, Schemas JSON-LD.
-  - **CSS3:** Variáveis nativas (Custom Properties), Flexbox, CSS Grid, Glassmorphism e animações aceleradas por GPU.
-  - **JavaScript (ES6+):** Código nativo puro (Vanilla JS), sem jQuery ou frameworks pesados.
-  - **Bootstrap 5.3 (Grid/Modals) & Bootstrap Icons:** Estrutura responsiva leve.
-
-- **Backend & Automação:**
-  - **PHP 8.x:** Processamento seguro de requisições POST com validação de dados sanitizados.
-  - **PHPMailer:** Envio fiável via servidor SMTP dedicado sobre SSL/TLS.
-  - **Google Gemini API:** Integração com modelo `gemini-2.5-flash` para orçamentação preditiva.
-
-- **Servidor & Otimização:**
-  - **Apache / LiteSpeed:** Suporte completo via [.htaccess](file:///.htaccess) com compressão Brotli/Gzip e cabeçalhos de expiração de cache.
-  - **Formatos Modernos:** Imagens em formato WebP de alta compressão e vetores SVG escaláveis.
+- 💼 **Portfólio Digital (99€):** Apresentação concisa de serviços, galeria de trabalhos e ligação direta a canais de contacto.
+- 🎯 **Landing Page de Alta Conversão (150€):** Página de foco único orientada a campanhas (Google Ads/Meta) e captação de *leads*.
+- 🏢 **Website Completo (250€):** Solução multi-páginas para empresas com blog, mapa interativo, formulários e estrutura avançada de SEO.
+- 🍽️ **Iniciativa Prato do Dia:** Ementas digitais por QR Code para o setor da restauração, com atualização prática e suporte via WhatsApp.
+- 🏷️ **[TagWeb](https://tagweb.kokanisa.pt):** Ferramenta e utilitários complementares para otimização e gestão web.
 
 ---
 
-## 📬 Contacto & Suporte
+## 🛠️ Stack Tecnológico
 
-- **Desenvolvedor:** Hugo Sá
-- **Website Oficial:** [https://kokanisa.pt](https://kokanisa.pt)
-- **Portfólio Pessoal:** [https://portfolio.kokanisa.pt](https://portfolio.kokanisa.pt)
-- **WhatsApp:** [+351 913 942 342](https://wa.me/351913942342)
-- **Email:** [hugo@kokanisa.pt](mailto:hugo@kokanisa.pt)
-- **Localização:** Santa Maria da Feira, Distrito de Aveiro, Portugal
+<div align="left">
 
----
+- **Frontend:** HTML5 Semântico, CSS3 (Modern Flexbox / Grid), JavaScript (Vanilla ES6+)
+- **UI & Layout:** Bootstrap 5, Bootstrap Icons, AOS (Animate On Scroll)
+- **Otimização & SEO:** Schema.org (Microdados JSON-LD), Open Graph Protocols, Google Tag Manager / Analytics
+- **Performance:** Formatos de imagem da próxima geração (`.webp`, `.svg`), minificação e carregamento assíncrono de recursos
 
-<div align="center">
-  <sub>Desenvolvido com precisão artesanal em Código Puro por Hugo Sá • © Kokanisa. Todos os direitos reservados.</sub>
 </div>
+
+---
+
+## 📂 Estrutura do Projeto
+
+```plaintext
+kokanisa.pt/
+├── index.html            # Página inicial e apresentação geral
+├── landingpage.html      # Apresentação detalhada dos planos e serviços
+├── pratododia.html       # Solução de menus digitais QR Code para restauração
+├── briefing.html         # Formulário interativo de levantamento de requisitos
+├── sobremim.html         # Apresentação do criador e visão do projeto
+├── blog.html             # Artigos sobre SEO local, performance e boas práticas
+├── contato.html          # Contactos formais e canais diretos
+├── css/
+│   └── style.css         # Estilos personalizados e variáveis de design
+├── js/
+│   └── ...               # Interatividade, navegação e animações
+└── image/                # Recursos visuais, logótipos e imagens otimizadas
