@@ -83,3 +83,19 @@ kokanisa.pt/
 ├── js/
 │   └── ...               # Interatividade, navegação e animações
 └── image/                # Recursos visuais, logótipos e imagens otimizadas
+
+
+## 👤 Autor
+
+**Hugo Sá** — *Web Designer & Freelancer*
+- 🌐 Website: [kokanisa.pt](https://kokanisa.pt)
+- 💼 LinkedIn: [/in/hugomiguelsa](https://www.linkedin.com/in/hugomiguelsa/)
+- 🐙 GitHub: [@kokanisa](https://github.com/kokanisa)
+- 💬 WhatsApp: [+351 913 942 342](https://wa.me/351913942342)
+- ✉️ Email: [hugo@kokanisa.pt](mailto:hugo@kokanisa.pt)
+
+---
+
+<div align="center">
+  <small>© Kokanisa • Desenvolvido com foco na simplicidade, rapidez e resultados.</small>
+</div>
